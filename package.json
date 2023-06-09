@@ -1,0 +1,22 @@
+{
+  "name": "youtubeapplication---copy---copy",
+  "version": "1.0.0",
+  "description": "https://www.googleapis.com/youtube/v3/search?key=AIzaSyDyEJJtRT1ZJIZTACqqmC-YczJon-K1weo&pageToken=CA8QAA&type=video&part=snippet&maxResults=15&q=javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^4.5.0",
+    "karma": "^6.4.1",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-commonjs": "^1.0.0",
+    "karma-coverage": "^2.2.0",
+    "karma-jasmine": "^5.1.0"
+  },
+  "dependencies": {
+    "karma-coverage": "^2.2.0"
+  }
+}
